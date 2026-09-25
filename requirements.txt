@@ -5,3 +5,5 @@ joblib
 requests
 scikit-learn==1.6.1
 pydantic
+
+==> Available at your primary URL https://flight-price-api-xaak.onrender.com
